@@ -1,6 +1,4 @@
-# ADHOC
-===========================
-## A Density-based Hierarchical and Overlapping Clustering method
+# ADHOC: A Density-based Hierarchical and Overlapping Clustering method
 
 ## Background: 
 Developing effective strategies to reveal modular structures in protein interaction networks is crucial for better understanding of molecular mechanisms of underlying biological processes. In this paper, we propose a new density-based algorithm (ADHOC) 
